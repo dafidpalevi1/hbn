@@ -21,9 +21,45 @@ export default function Navbar() {
         <a className="navbar-item">
           Home
         </a>
+
+        <a className="navbar-item">
+          Paket Hemat
+        </a>
+
+        <a className="navbar-item">
+          Paket Mantap
+        </a>
+
+        <a className="navbar-item">
+          Paket Jitu
+        </a>
+
+        <a className="navbar-item">
+          Internet
+        </a>
+
+        <a className="navbar-item">
+          Internet + TV
+        </a>
+
+        <a className="navbar-item">
+          Internet + STB Android
+        </a>
+
+        <a className="navbar-item">
+          TV
+        </a>
   
         <a className="navbar-item">
-          Documentation
+          Kontak
+        </a>
+
+        <a className="navbar-item">
+              Bantuan
+        </a>
+
+        <a className="navbar-item">
+              Tentang
         </a>
   
         <div className="navbar-item has-dropdown is-hoverable">
@@ -37,9 +73,6 @@ export default function Navbar() {
             </a>
             <a className="navbar-item">
               Jobs
-            </a>
-            <a className="navbar-item">
-              Contact
             </a>
             <hr className="navbar-divider"/>
             <a className="navbar-item">
